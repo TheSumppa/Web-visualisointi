@@ -1,0 +1,110 @@
+body
+{
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+main
+{
+    height: 600px;
+}
+/* Make EVERYTHING use border-box */
+*, *:before, *:after
+{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+nav, header, main, section, article
+{
+    display: flex;
+    width: 100vw;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+nav
+{
+    background-color: #5995DA;
+}
+header
+{
+    background-color: #B2D6FF;
+}
+main
+{
+    background-color: #92b3d0;
+}
+section
+{
+    background-color: #D6E9FE;
+}
+
+/* Background colors */
+
+.bg-yellow
+{
+    background-color: #d9b068;
+}
+.bg-red
+{
+    background-color: #935157;
+}
+.bg-purple
+{
+    background-color: #9779DD;
+}
+
+/* Mobile styles */
+@media only screen and (max-width: 400px)
+{
+    body
+    {
+        background-color: #F09A9D;
+    }
+}
+/* Tablet styles */
+@media only screen and (min-width: 401px) and (max-width: 960px)
+{
+    body
+    {
+        background-color: #F5CF8E;
+    }
+    
+    article, section {
+        width: 50%;
+        
+    }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px)
+{
+    body
+    {
+        background-color: #7fb5f2;
+        width: 960px;
+        margin: 0 auto;
+    }
+    article
+    {
+        width: 33.3%;
+        order: 3;
+    }
+    header
+    {
+        height: 400px;
+    }
+    
+    section 
+    {
+        height: 200px;
+        order: 1;
+    }   
+    main
+    {
+        order: 2;
+    }
+}

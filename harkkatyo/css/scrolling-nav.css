@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+  img {
+    width: 30%;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+#nameField, #emailField, #textField {
+    width: 50%;
+}
+
+a {
+    font-size: 20px;
+}
+#contactBtn:hover {
+    background-color: #52e373;
+}
+
+/* Mobile Styles */
+@media screen and (max-width: 480px) {
+    #nameField, #emailField, #textField {
+    width: 100%;
+    }
+    img {
+        min-width: 100%;
+    }
+}
+
+#topBtn:hover {
+  color: dimgrey;
+}
+
+/* Tablet styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+    #nameField, #emailField, #textField {
+    width: 100%;
+    }
+    img {
+        max-width: 50%;
+    }
+}

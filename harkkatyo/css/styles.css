@@ -1,0 +1,75 @@
+header {
+  padding: 154px 0 100px;
+}
+
+.galleryImg {
+	width: 30%;
+}
+    .table-map-name {
+	min-width:100px;
+}
+
+.mediaIcon {
+	width:32px;
+	margin: 5px;
+}
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+th {
+    text-align: center;
+}
+.sumRow {
+    width: 50px;
+}
+.tableHeader {
+    width: 150px;
+}
+section {
+  padding: 150px 0;
+}
+#nameField, #emailField, #textField {
+    width: 50%;
+}
+
+a {
+    font-size: 20px;
+}
+#contactBtn:hover {
+    background-color: #52e373;
+}
+
+/* Mobile Styles */
+@media screen and (max-width: 480px) {
+    #nameField, #emailField, #textField {
+    width: 100%;
+    }
+    section {
+        padding: 50px 0;
+    }
+    .galleryImg {
+	width: 100%;
+	}
+}
+
+#topBtn:hover {
+  color: dimgrey;
+}
+
+/* Tablet styles */
+@media only screen and (min-width: 481px) and (max-width: 701px){
+    #nameField, #emailField, #textField {
+    width: 100%;
+    }
+    
+    section {
+        padding:50px 0;
+    }
+
+    .galleryImg {
+	width: 100%;
+	}
+}

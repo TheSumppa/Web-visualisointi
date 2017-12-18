@@ -1,0 +1,273 @@
+body
+{
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#bob1
+{
+    margin-bottom: 10px;
+    width: 450px;
+}
+
+.thumbnail
+{
+    margin-top: 10px;
+    width: 300px;
+}
+
+form
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*Orders */
+#main > h1 {order: 1;}
+#main > p {ordeR: 2;}
+#main > img {order: 3;}
+/*
+article > h1 {order: 1;}
+article > p {order: 2;}
+article > img {order: 3;}
+*/
+
+/* Make EVERYTHING use border-box */
+*, *:before, *:after
+{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/*Background colors*/
+body
+{
+    background-color: #f9fbff;
+}
+header
+{
+    background-color: #b4cfff;
+}
+ul
+{
+    background-color: #e5e9f5;
+}
+main
+{
+    background-color: #b4c3f5;
+}
+aside
+{
+    background-color: #dae1f5;
+}
+section
+{
+    background-color: #d5e5f5;
+}
+article
+{
+    background-color: #e0edff;
+}
+
+/* Mobile styles */
+@media only screen and (max-width: 400px)
+{
+    header
+    {
+        width: 100vw;
+        text-align: center;
+    }
+    nav
+    {
+        width: 100vw;
+        border-top: solid 1px grey;
+    }
+    ul
+    {
+        margin:0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    li
+    {
+        display: flex;
+        margin: 5px;
+    }
+    main
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 10px;
+        border-top: solid 1px grey;
+    }
+    
+    aside
+    {
+        display: flex;
+        flex-direction: column;
+        padding-left: 5px;
+        border-top: solid 1px grey;
+        width: 100vw;
+    }
+    article
+    {
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        padding-left: 5px;
+        border-top: solid 1px grey;
+    }
+    section
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 5px;
+        border-bottom: solid 1px grey;
+        border-top: solid 1px grey;
+    }
+    
+    footer
+    {
+        width: 100vw;
+    }
+}
+/* Tablet styles */
+@media only screen and (min-width: 401px) and (max-width: 960px)
+{
+    header
+    {
+        width: 100vw;
+        text-align: center;
+    }
+    nav
+    {
+        width: 100vw;
+        border-top: solid 1px grey;
+    }
+    ul
+    {
+        margin:0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    li
+    {
+        display: flex;
+        margin: 5px;
+    }
+    main
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 10px;
+        border-top: solid 1px grey;
+    }
+    
+    aside
+    {
+        display: flex;
+        flex-direction: column;
+        padding-left: 5px;
+        border-top: solid 1px grey;
+        width: 100vw;
+    }
+    article
+    {
+        display: flex;
+        width: 25%;
+        flex-direction: column;
+        padding-left: 5px;
+        border-top: solid 1px grey;
+    }
+    section
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 5px;
+        border-bottom: solid 1px grey;
+        border-top: solid 1px grey;
+    }
+    
+    footer
+    {
+        width: 100vw;
+    }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px)
+{
+    header
+    {
+        width: 100vw;
+        text-align: center;
+    }
+    nav
+    {
+        width: 100vw;
+        border-top: solid 1px grey;
+    }
+    ul
+    {
+        margin:0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    li
+    {
+        display: flex;
+        margin: 5px;
+    }
+    main
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 10px;
+        border-top: solid 1px grey;
+    }
+    
+    aside
+    {
+        display: flex;
+        flex-direction: column;
+        padding-left: 5px;
+        border-top: solid 1px grey;
+        width: 100vw;
+    }
+    article
+    {
+        display: flex;
+        width: 25%;
+        flex-direction:column;
+        align-items: center;
+        padding-left: 5px;
+        border-top: solid 1px grey;
+    }
+    section
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 5px;
+        border-bottom: solid 1px grey;
+        border-top: solid 1px grey;
+    }
+    
+    footer
+    {
+        width: 100vw;
+    }
+}
