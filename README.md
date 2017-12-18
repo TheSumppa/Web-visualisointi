@@ -17,4 +17,4 @@ Nappula transition: [Link](https://codepen.io/anon/pen/POedqM?editors=1100)
 Animaatio(epilepsia varoitus): [Link](https://codepen.io/anon/pen/ZvzXYB?editors=1100)
 
 Harjoitustyö: [Link](https://thesumppa.github.io/Web-visualisointi/harkkatyo/)
-Harjoitustyön dokumentaatio löytyy harjoitustyön navista
+  Harjoitustyön dokumentaatio löytyy harjoitustyön navista
