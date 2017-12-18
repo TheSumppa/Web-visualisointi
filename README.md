@@ -4,6 +4,8 @@ CSS kirjastoja: BootStrap, (käytän tod.näk omassa harkassa). Käteviä valmii
 
 MockUP: [Link](https://www.fluidui.com/editor/live/preview/cF9NeFRCTVJTUnd6RlhjVVZXaU9HRnptZlpyaVM3eEF0SA==)
 
-Nappula transition: https://codepen.io/anon/pen/POedqM?editors=1100
+Nappula transition: [Link](https://codepen.io/anon/pen/POedqM?editors=1100)
 
-Animaatio(epilepsia varoitus): https://codepen.io/anon/pen/ZvzXYB?editors=1100
+Animaatio(epilepsia varoitus): [Link](https://codepen.io/anon/pen/ZvzXYB?editors=1100)
+
+Harjoitustyö: [Link](TheSumppa.github.io/Web-visualisointi/harkkatyo)
