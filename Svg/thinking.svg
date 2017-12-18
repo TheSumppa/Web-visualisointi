@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="297mm" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="thinking.svg" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+	<sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="355.71327" inkscape:cy="683.28154" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.59472656" pagecolor="#ffffff" showgrid="false"/>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<g transform="matrix(.64485 0 0 .64485 55.68 203.72)" stroke-width="0">
+			<circle cx="73.236" cy="-203.22" r="77.101" fill="#ff9700"/>
+			<g transform="translate(-27.078 -398.08)">
+				<g transform="translate(-190.44 17.586)">
+					<circle cx="234.64" cy="152.95" r="34.819" fill="#ff9700"/>
+					<circle cx="234.46" cy="152.39" r="28.645" fill="#fffff6"/>
+				</g>
+				<circle cx="43.217" cy="170.54" r="21.141"/>
+				<circle cx="49.017" cy="164.17" r="9.7286" fill="#fff"/>
+			</g>
+			<g transform="translate(-27.078 -398.08)">
+				<g transform="translate(-78.843 17.586)">
+					<circle cx="234.64" cy="152.95" r="34.819" fill="#ff9700"/>
+					<circle cx="234.46" cy="152.39" r="28.645" fill="#fffff6"/>
+				</g>
+				<g transform="translate(115.62 5.7715e-6)">
+					<circle cx="43.217" cy="170.54" r="21.141"/>
+					<circle cx="49.017" cy="164.17" r="9.7286" fill="#fff"/>
+				</g>
+			</g>
+			<path d="m35.644-258.53c0.94378 10.038-15.306-3.5255-25.344-2.5818-10.038 0.94378-23.521 18.806-24.465 8.768-0.94378-10.038 14.648-17.459 24.687-18.403 10.038-0.94378 24.179 2.1781 25.123 12.217z" fill="#502b00" inkscape:connector-curvature="0" sodipodi:nodetypes="sssss"/>
+			<path d="m110.77-253.38c-1.7855 9.9233 15.548-2.2245 25.472-0.43897 9.9233 1.7855 21.855 20.72 23.64 10.796 1.7855-9.9233-13.127-18.63-23.05-20.416s-24.276 0.13492-26.062 10.058z" fill="#502b00" inkscape:connector-curvature="0" sodipodi:nodetypes="sssss"/>
+			<g transform="translate(-47.716 -398.61)" fill="#ca7000">
+				<g transform="matrix(.87173 -.31214 .26369 1.0125 .43822 28.32)">
+					<ellipse cx="75.142" cy="238.92" rx="44.979" ry="8.0698"/>
+					<ellipse cx="68.403" cy="255.46" rx="15.75" ry="11.642"/>
+					<circle cx="37.306" cy="263.13" r="29.369"/>
+					<ellipse cx="64.963" cy="268.95" rx="15.75" ry="11.642"/>
+					<ellipse cx="53.85" cy="281.39" rx="15.75" ry="11.642"/>
+				</g>
+				<ellipse cx="81.889" cy="258.64" rx="11.774" ry="20.902"/>
+				<ellipse transform="rotate(38.98)" cx="217.89" cy="128.14" rx="11.774" ry="20.902" inkscape:transform-center-x="6.8791666" inkscape:transform-center-y="-2.38125"/>
+			</g>
+			<path d="m109.96-170.58c-5.9564 2.0528-10.364-0.0454-33.115-6.5481-13.091-3.7418-19.895 1.9259-24.883-5.7998-3.4611-5.3607-2.1542-6.8578 21.235-3.274 21.978 3.3676 44.199 13.059 36.763 15.622z" fill="#502b00" inkscape:connector-curvature="0" sodipodi:nodetypes="sssss"/>
+		</g>
+	</g>
+</svg>
